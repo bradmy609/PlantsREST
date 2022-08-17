@@ -1,5 +1,0 @@
-com\codecademy\plants\controllers\TravelAdventuresController.class
-com\codecademy\plants\repositories\AdventureRepository.class
-com\codecademy\plants\DBConnection\PostRequest.class
-com\codecademy\plants\entities\Adventure.class
-com\codecademy\plants\PlantsApplication.class
